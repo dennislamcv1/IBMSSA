@@ -1,7 +1,7 @@
 # IBMSSA
 ## IBM Systems and Solutions Architect Professional Certificate
 
-### Professional Certificate - 10 course series
+### Professional Certificate - 11 course series
 
 Launch your career in Systems and Solutions Architecture! This program helps you build job-relevant skills in about three months, and no prior experience is required. 
 
